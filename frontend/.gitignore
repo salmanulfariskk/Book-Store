@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Express.js
+build/
+dist/
+
+# React.js
+/build/
+/.next/
+/node_modules/
+
+# MongoDB
+*.log
+*.md
+*.lock
